@@ -1,6 +1,7 @@
 import PropTypes from "prop-types";
 import React, { Component } from "react";
 
+
 export default class AddBugComponent extends Component {
   constructor(props) {
     super(props);
